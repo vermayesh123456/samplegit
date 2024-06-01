@@ -2,5 +2,7 @@
 
 a=10
 b=20
-echo "$a+$b"
-echo "$a-$b"
+d=a+b
+e=a-b
+echo $d
+echo $e
